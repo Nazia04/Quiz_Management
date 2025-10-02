@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Which is not part of system testing? 1",
+    "answer": "4",
+    "options": [
+      "Regression Testing",
+      "Sanity Testing",
+      "Load Testing",
+      "Unit Testing"
+    ]
+  },
+  {
+    "question": "Which of the following is a dynamic testing technique? 2",
+    "answer": "3",
+    "options": [
+      "Walkthrough",
+      "Code Review",
+      "Black Box Testing",
+      "Inspection"
+    ]
+  },
+  {
+    "question": "What is the main purpose of unit testing? 3",
+    "answer": "1",
+    "options": [
+      "Test individual components",
+      "Test the whole system",
+      "Test integration",
+      "Test performance"
+    ]
+  },
+  {
+    "question": "Which testing is performed without executing code? 4",
+    "answer": "1",
+    "options": [
+      "Static Testing",
+      "Integration Testing",
+      "Unit Testing",
+      "Regression Testing"
+    ]
+  },
+  {
+    "question": "Which of the following is used to track defects? 5",
+    "answer": "2",
+    "options": [
+      "Test Plan",
+      "Bug Report",
+      "Use Case",
+      "Flowchart"
+    ]
+  },
+  {
+    "question": "What is the main goal of regression testing? 6",
+    "answer": "2",
+    "options": [
+      "Find new bugs",
+      "Ensure old functionality still works",
+      "Test performance",
+      "Validate user interface"
+    ]
+  },
+  {
+    "question": "What is boundary value analysis used for? 7",
+    "answer": "1",
+    "options": [
+      "Testing at extreme input values",
+      "Testing code structure",
+      "Testing usability",
+      "Testing database integrity"
+    ]
+  },
+  {
+    "question": "Which testing validates the system against requirements? 8",
+    "answer": "3",
+    "options": [
+      "Unit Testing",
+      "System Testing",
+      "Acceptance Testing",
+      "Load Testing"
+    ]
+  },
+  {
+    "question": "What does a test case contain? 9",
+    "answer": "1",
+    "options": [
+      "Steps, input, expected result",
+      "Only code snippets",
+      "Only expected results",
+      "Only input data"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a black-box testing technique?",
+    "answer": "3",
+    "options": [
+      "Equivalence Partitioning",
+      "Decision Table Testing",
+      "Statement Coverage",
+      "Boundary Value Analysis"
+    ]
+  },
+  {
+    "question": "What type of testing is performed by end-users?",
+    "answer": "2",
+    "options": [
+      "System Testing",
+      "Acceptance Testing",
+      "Unit Testing",
+      "Integration Testing"
+    ]
+  }
+]
